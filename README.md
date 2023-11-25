@@ -23,6 +23,7 @@ Langkah 2) Menambahkan syntax aliases route pada file web.php yang berfungsi men
 Mengakses endpoint /profile pada Postman. Karena pada langkah sebelumnya telah
 diatur menjadi true, maka routes akan memanggil route.auth.login dan menampilkan
 pesan seperti pada gambar.
+
 <img src="5.jpg">
 <img src="6.jpg">
 <img src="7.jpg">
@@ -43,6 +44,7 @@ AgeMiddleware pada file bootstrap/app.Menambahkan routes /fail dan middleware pa
 routes /admin/home.Mengakses prefix /admin/home pada Postman. Mengakses prefix
 /admin/home pada Postman. Mengakses prefix /admin/home pada Postman. Mengakses
 prefix /admin/home pada Postman
+
 <img src="10.jpg">
 <img src="11.jpg">
 <img src="12.jpg">
